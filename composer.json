@@ -1,7 +1,6 @@
 {
   "name": "marcusyan/botman-driver-discord",
   "description": "A discord driver for botman",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
