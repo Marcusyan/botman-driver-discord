@@ -1,12 +1,12 @@
 {
-  "name": "jabirchall/botman-driver-discord",
+  "name": "marcusyan/botman-driver-discord",
   "description": "A discord driver for botman",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
-      "name": "JABirchall",
-      "email": "JABirchall@users.noreply.github.com"
+      "name": "Marcus",
+      "email": "mail@es4.tv"
     }
   ],
   "require": {
@@ -16,6 +16,12 @@
     "illuminate/support": "~5.7",
     "react/socket": "1.2.0 as 0.8.13"
   },
+  "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Marcusyan/botman-driver-discord.git"
+        }
+  ],
   "autoload": {
     "psr-4": {
       "JABirchall\\BotMan\\Drivers\\Discord\\": "src/"
