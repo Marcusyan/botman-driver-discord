@@ -11,9 +11,9 @@
   "require": {
     "botman/botman": "~2.0",
     "php": ">=7.1",
-    "charlottedunois/yasmin": "~v0.6",
+    "charlottedunois/yasmin": "*",
     "illuminate/support": "*",
-    "react/socket": "1.2.0 as 0.8.13"
+    "react/socket": "*"
   },
   "repositories": [
         {
