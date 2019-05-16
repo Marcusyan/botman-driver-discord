@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "botman/botman": "~2.0",
+    "botman/botman": "^2.0",
     "php": ">=7.1",
     "charlottedunois/yasmin": "*",
     "illuminate/support": "*",
